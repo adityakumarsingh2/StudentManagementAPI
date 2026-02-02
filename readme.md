@@ -1,5 +1,4 @@
 STUDENT RECORD MANAGEMENT API
-
 1. Introduction
 
 The Student Record Management API is a backend application developed using Node.js and Express.js. 
